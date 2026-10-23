@@ -1,0 +1,9 @@
+.vscode/
+src/
+docs/
+examples/
+**/*.map
+tsconfig.json
+biome.json
+bun.lock
+.gitignore
